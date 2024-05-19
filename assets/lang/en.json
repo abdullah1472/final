@@ -1,0 +1,16 @@
+{
+  "app_title": "Three Page App",
+  "home_page_title": "Home Page",
+  "second": "Second Page",
+  "third_page": "Third Page",
+  "login": "Login",
+  "clear": "Clear",
+  "close": "Close",
+  "name_hint": "Name",
+  "password_hint": "Password",
+  "your_name": "Your Name: ",
+  "back": "Back",
+  "next": "Next",
+  "welcome": "Welcome, %@",
+  "splash": "Splash"
+}
